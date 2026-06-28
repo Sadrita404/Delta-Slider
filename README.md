@@ -53,6 +53,8 @@ This project can be used in multiple ways, but the best ways to use it for takin
     </tr>
   </table>
 </div>
+        
+For this project I will not need any PCB as I will use perf board to make the connection that will be much cost effective , since I am going to use an encloser so everything will be fine..
 
 ---
 
@@ -104,6 +106,9 @@ This project can be used in multiple ways, but the best ways to use it for takin
 </div>
 </div>
 
+<div align="center">
+  <h2> Bill of Materials </h2>
+</div>
 
 | Name | Purpose | Qty | Total (USD) | Link | Distributor |
 | :--- | :--- | :---: | :---: | :---: | :--- |
@@ -120,4 +125,41 @@ This project can be used in multiple ways, but the best ways to use it for takin
 | Esp 32 | The Main Board | 1 | 4.04 | [Link](https://robu.in/product/esp-wroom-32-wifi-bluetooth-networking-smart-component-development-board/?gad_source=1&gad_campaignid=17413441824&gbraid=0AAAAADvLFWddE3F8C4cXysOTCOXKAjfbB&gclid=CjwKCAjw6f3RBhApEiwAMaCqWTdXkMBVs7eB3xLXKns1G1fxhjQQC909QfHJ2wubXEN-UeoWEu-DzRoCRF8QAvD_BwE) | robu |
 | Nema 17 Bipolar Stepper Motor | For the slider movement | 2 | 19.94 | [Link](https://robu.in/product/nema17-2-6-kg-cm-stepper-motor/) | robu |
 
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; max-width: 600px;">
+    <tr>
+      <td style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        <div style="font-size: 16px; font-weight: 600; color: #24292f; margin-bottom: 12px; border-bottom: 1px solid #d0d7de; padding-bottom: 8px;">
+           Final Summary Title
+        </div>
+        <table width="100%" border="0" style="border-collapse: collapse; font-size: 14px; color: #57606a;">
+          <tr>
+            <td style="padding: 4px 0;">Component Subtotal:</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$49.02</td>
+          </tr>
+          <tr>
+            <td style="padding: 4px 0;">Shipping Cost:</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$1.80</td>
+          </tr>
+          </tr>
+          <tr style="border-top: 1px dashed #d0d7de;">
+            <td style="padding: 12px 0 0 0; font-weight: 600; color: #24292f; font-size: 15px;">Net Total Cost:</td>
+            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$50.82</td>
+          </tr>
+          <tr>
+            <td style="padding: 2px 0 0 0; font-size: 11px; color: #8c959f;">Projected Budget Allocation:</td>
+            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$51</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+I have provided the links to the parts that I will self - sourced , So that if a reader wanted to recreate this project they would be able to find all the parts..
+
+
+---
+
+**Project Under Hack Club**
 
