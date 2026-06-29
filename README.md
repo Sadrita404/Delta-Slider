@@ -157,7 +157,7 @@ For this project I will not need any PCB as I will use perf board to make the co
 </div>
 
 I have provided the links to the parts that I will self - sourced , So that if a reader wanted to recreate this project they would be able to find all the parts..
-
+So I wanat an $50 grant for thsi project 
 
 ---
 
